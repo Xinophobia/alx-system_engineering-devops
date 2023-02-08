@@ -12,3 +12,4 @@ Going back to previous directory
 Listing files of different directories
 Knowing file types
 Creating Symbolic links
+Copying unique files
