@@ -6,3 +6,4 @@ This displays all hidden files
 Listing files but sorted
 Creating directories in another directory
 Moving a file to another directory
+Deleting file betty
