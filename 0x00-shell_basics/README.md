@@ -15,3 +15,4 @@ Creating Symbolic links
 Copying unique files
 Moving only files beginning with uppercase
 Removing all emacs files
+Creating one directory in each new directory with one command
