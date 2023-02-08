@@ -17,3 +17,4 @@ Moving only files beginning with uppercase
 Removing all emacs files
 Creating one directory in each new directory with one command
 Listing with commas
+Creating magic files
