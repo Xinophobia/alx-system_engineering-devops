@@ -10,3 +10,4 @@ Deleting file betty
 Deleting 'My first directory'
 Going back to previous directory
 Listing files of different directories
+Knowing file types
