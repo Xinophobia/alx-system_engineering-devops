@@ -14,3 +14,4 @@ Knowing file types
 Creating Symbolic links
 Copying unique files
 Moving only files beginning with uppercase
+Removing all emacs files
