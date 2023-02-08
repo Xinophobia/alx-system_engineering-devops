@@ -9,4 +9,4 @@ Moving a file to another directory
 Deleting file betty
 Deleting 'My first directory'
 Going back to previous directory
-Listing files into directories
+Listing files of different directories
