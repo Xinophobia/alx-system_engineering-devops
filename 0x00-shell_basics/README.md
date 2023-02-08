@@ -5,3 +5,4 @@ Displays contents in a long format
 This displays all hidden files
 Listing files but sorted
 Creating directories in another directory
+Moving a file to another directory
