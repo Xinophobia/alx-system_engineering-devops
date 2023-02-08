@@ -7,3 +7,4 @@ Listing files but sorted
 Creating directories in another directory
 Moving a file to another directory
 Deleting file betty
+Deleting 'My first directory'
