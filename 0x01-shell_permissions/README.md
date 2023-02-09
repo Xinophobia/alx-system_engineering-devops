@@ -6,4 +6,5 @@ Creating empty files
 Giving execution permission to owner only
 Giving execution permission to the owner and the group owner
 Giving execution permission to everybody
+Giving exetution permission to Others only
 
