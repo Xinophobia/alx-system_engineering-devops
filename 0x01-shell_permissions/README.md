@@ -3,6 +3,7 @@ Printing username
 Printing groups 
 Changing owners
 Creating empty files
-Giving execute permission
-Giving execute permission to the owner and the group owner
+Giving execution permission to owner only
+Giving execution permission to the owner and the group owner
+Giving execution permission to everybody
 
