@@ -13,4 +13,5 @@ Giving executive permission to subdirectories
 Creating directories with permissions
 Changing group ownership
 Changing owners and groups same time
+Changing ownership of symlinks
 
