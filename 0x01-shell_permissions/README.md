@@ -8,4 +8,5 @@ Giving execution permission to the owner and the group owner
 Giving execution permission to everybody
 Giving exetution permission to Others only
 Write a script that sets the mode of the file hello to this:
+Mirroring permissions
 
