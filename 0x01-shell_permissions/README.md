@@ -1,1 +1,3 @@
 Switching users
+Printing username
+
