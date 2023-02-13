@@ -11,3 +11,5 @@ Appending into a file
 Finding and deleting js files
 Counting the number of current directories and sub-directories in the current directory.
 Counting from newest to oldest
+Only print unique lines
+
