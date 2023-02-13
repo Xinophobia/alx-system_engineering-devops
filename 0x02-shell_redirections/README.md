@@ -8,3 +8,5 @@ Displaying just the third line
 Escaping a lot of characters in file name
 Writing output into a file
 Appending into a file
+Finding and deleting js files
+
