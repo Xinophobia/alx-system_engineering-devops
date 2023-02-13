@@ -19,3 +19,4 @@ All lines without bin
 Letters only
 Replacing letters
 Deleting specific characters
+Reverse
