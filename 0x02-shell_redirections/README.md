@@ -18,3 +18,4 @@ Display the number of lines that contain the pattern bin
 All lines without bin
 Letters only
 Replacing letters
+Deleting specific characters
