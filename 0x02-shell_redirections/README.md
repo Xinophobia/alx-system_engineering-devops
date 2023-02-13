@@ -15,3 +15,4 @@ Only print unique lines
 Display lines containing the pattern root
 Display the number of lines that contain the pattern bin
 3 lines after the line containing root
+All lines without bin
