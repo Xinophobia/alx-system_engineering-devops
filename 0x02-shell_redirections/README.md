@@ -24,3 +24,4 @@ A script that displays all users and their home directories
 finding empty files
 Listing files with .gif
 Acrostic
+Biggest fan
