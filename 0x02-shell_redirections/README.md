@@ -1,3 +1,4 @@
 Hello World
-Disply Confused smiley
+Display Confused smiley
+Display the /etc/passwd file
 
