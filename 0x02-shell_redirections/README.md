@@ -7,4 +7,4 @@ Displaying just the first 10 lines
 Displaying just the third line
 Escaping a lot of characters in file name
 Writing output into a file
-
+Appending into a file
