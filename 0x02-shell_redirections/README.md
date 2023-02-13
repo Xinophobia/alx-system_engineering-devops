@@ -20,3 +20,4 @@ Letters only
 Replacing letters
 Deleting specific characters
 Reverse
+A script that displays all users and their home directories
