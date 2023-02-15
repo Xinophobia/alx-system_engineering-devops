@@ -6,3 +6,4 @@ Listing global variables
 Listing local variables
 Creating local variables
 Creating global variables
+Doing addition with variables
