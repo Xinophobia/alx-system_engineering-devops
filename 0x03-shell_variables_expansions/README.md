@@ -7,3 +7,4 @@ Listing local variables
 Creating local variables
 Creating global variables
 Doing addition with variables
+Dividing variables
