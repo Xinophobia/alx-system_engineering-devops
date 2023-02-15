@@ -4,4 +4,5 @@ Adding /action to PATH
 Counting directories in PATH
 Listing global variables
 Listing local variables
-Creating variables
+Creating local variables
+Creating global variables
