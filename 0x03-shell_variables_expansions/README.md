@@ -10,3 +10,4 @@ Doing addition with variables
 Dividing variables
 Raising to power
 Changing bases
+Printing combinations
