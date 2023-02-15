@@ -14,3 +14,4 @@ Printing combinations
 2 decimal places
 Changing bases
 Rot13
+Skipping lines
