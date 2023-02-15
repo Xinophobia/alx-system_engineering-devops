@@ -11,3 +11,4 @@ Dividing variables
 Raising to power
 Changing bases
 Printing combinations
+2 decimal places
