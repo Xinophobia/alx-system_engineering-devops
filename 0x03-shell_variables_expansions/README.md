@@ -8,3 +8,4 @@ Creating local variables
 Creating global variables
 Doing addition with variables
 Dividing variables
+Raising to power
