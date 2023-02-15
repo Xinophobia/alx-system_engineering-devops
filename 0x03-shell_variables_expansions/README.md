@@ -3,3 +3,4 @@ Printing user
 Adding /action to PATH
 Counting directories in PATH
 Listing global variables
+Listing local variables
