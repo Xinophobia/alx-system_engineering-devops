@@ -15,3 +15,4 @@ Printing combinations
 Changing bases
 Rot13
 Skipping lines
+Using a variable as base#
